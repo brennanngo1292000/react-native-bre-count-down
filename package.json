@@ -1,0 +1,44 @@
+{
+  "name": "react-native-bre-count-down",
+  "version": "1.0.0",
+  "description": "The missing React Native Bre Countdown",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "counter",
+    "countdown"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanngo1292000/react-native-bre-count-down.git"
+  },
+  "author": "brennanngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanngo1292000/react-native-bre-count-down/issues"
+  },
+  "homepage": "https://github.com/brennanngo1292000/react-native-bre-count-down#readme",
+  "dependencies": {
+    "lodash": "^4.17.13",
+    "sprintf-js": "^1.1.1",
+    "prop-types": "^15.5.8"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  }
+}
